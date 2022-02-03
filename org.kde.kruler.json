@@ -18,8 +18,8 @@
             "sources": [
                 {
                   "type": "archive",
-                  "url": "https://download.kde.org/stable/release-service/21.12.1/src/kruler-21.12.1.tar.xz",
-                  "sha256": "a2b9aedd39d1a1ac858bbf8bfe1217a878868dd032f970cb01a5e6ec01be9e25"
+                  "url": "https://download.kde.org/stable/release-service/21.12.2/src/kruler-21.12.2.tar.xz",
+                  "sha256": "7cf5a6d09ebaf4695013fd0c46856c487063dd4341aab898272d19d5f0e0adf0"
                 },
                 {
                   "type": "patch",
