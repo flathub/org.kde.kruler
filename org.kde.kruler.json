@@ -19,7 +19,13 @@
                 {
                     "type": "archive",
                     "url": "https://download.kde.org/stable/release-service/21.12.3/src/kruler-21.12.3.tar.xz",
-                    "sha256": "f95725a73d3bbb4fd59dfeadf6c070ed3d64e36995168300d2a0cb03921aab4a"
+                    "sha256": "f95725a73d3bbb4fd59dfeadf6c070ed3d64e36995168300d2a0cb03921aab4a",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8763,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kruler-$version.tar.xz"
+                    }
                 },
                 {
                   "type": "patch",
