@@ -1,15 +1,15 @@
 {
     "id": "org.kde.kruler",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.7",
     "sdk": "org.kde.Sdk",
     "command": "kruler",
     "rename-icon": "kruler",
     "finish-args": [
+        "--device=dri",
         "--share=ipc",
         "--socket=fallback-x11",
-        "--socket=wayland",
-        "--device=dri"
+        "--socket=wayland"
     ],
     "modules": [
         {
@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/kruler-23.08.4.tar.xz",
-                    "sha256": "b59ccf65d48abd38139d2d98e6984ab4ab8744163caf447926d2e61bb9bd0523",
+                    "url": "https://download.kde.org/stable/release-service/24.05.1/src/kruler-24.05.1.tar.xz",
+                    "sha256": "c1362718abdce06ce25399a8c8053732e0170dc409683d94e9a6a1ccb7765f67",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
