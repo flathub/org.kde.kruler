@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.08.2/src/kruler-24.08.2.tar.xz",
-                    "sha256": "13be360786f169393b4756a40ba1f15e4944be2fc7c4a4bb4f874433e548e655",
+                    "url": "https://download.kde.org/stable/release-service/24.08.3/src/kruler-24.08.3.tar.xz",
+                    "sha256": "05c6881cd9fdeb2efdec25ca0e30f2c1135e97753de60b7799067ec844ecd5c6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
