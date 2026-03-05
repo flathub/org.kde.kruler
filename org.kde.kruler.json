@@ -11,7 +11,7 @@
         "--socket=fallback-x11",
         "--socket=wayland"
     ],
-     "cleanup": [
+    "cleanup": [
         "/share/doc"
     ],
     "modules": [
@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kruler-25.12.2.tar.xz",
-                    "sha256": "0c072e7d68745e7b7ac63df469dbdf5eb623a186a5dbe566eb99907f1e69b63c",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kruler-25.12.3.tar.xz",
+                    "sha256": "c211bec09a71bda55b1ab86223729603ec7c3206296466bc8ae98dcb76cb7084",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
